@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "To Amsterdamse Bos"
+date:   2016-05-08 20:14:46 +0000
+categories: amsterdam
+---
+
+Sunday, hot. Despite cold, decide to step outside. Spent last night 
+contemplating where to walk today. Considered one of Amsterdam's three sewage 
+farms (RWZI), preferably Amsterdam West, that being the most extensive. 
+Probably too far. Then, noticed a near continuous stretch of green going from 
+my place close to the banks of the Amstel, along Amstel, Amstel Park and out 
+to Amsterdamse Bos.
+
+Set off around 1pm, back around 7:30pm. Struck by the relaxed, fair-like and 
+altogether quaint atmosphere of Amstel Pk. Quite busy, then step across 
+*Roud Brug* and into the wonders of the 60s social housing of Amsterdam Zuid. 
+Today it is like a ghost town - hardly a soul in site. The high white blocks 
+are laid out around large open spaces - high boulevards of trees, waterways 
+and planted walkways - a winning combination of prestressed concrete 
+parkitecure and lush greenery. These deeply peaceful spaces fill me with the 
+same sense of academic bliss as one finds in the most secluded of Cambridge 
+college quadrangles. Onwards to the Bos. Lying before the entrance to the Bos 
+from this approach are the highly decorated coffins of the Pharaohs of 
+Amsterdamse Bos, the most notable of whom was Tootin' Cartoon.
+
+<figure>
+	<a href='https://photos.google.com/share/AF1QipM994ZDc0WQ2iYMRI7zAUJ6vM5K9szajRriVFr7f0-v5xuAhKtEniAAd7t-FhIl5Q/photo/AF1QipOZ5RxLjSvnfCmoR4rpfR6AWEdfsEEu3dnsfzj3?key=QnlmZFpld0IwTnd2Z3VscWw2elhaUy1MdWJvNXln'>
+		<img src='https://lh3.googleusercontent.com/Kcs6zAVLk3XgOQjsoYi50oVi5tkINY1EFqZqafDQB4F-8MWJ-7rCSYJvfKicdkohMmYz3BVwL13cKoPS72okYnYxfh61sLw24kcKmztzxybJNCqZmyocneVZy5F3mChW2vloUMo2JA' alt='Tootin Cartoon' >
+	</a>	
+    <figcaption>"<i>Here lieth Tootin' Cartoon</i>"</figcaption>
+</figure>
+
+Reached the Bos, pass possible location of the nude spa (note for future 
+reference), and head to the long long water of Bosbaan. I could watch the 
+giant KLM planes taking off over the water for hours - blue planes in a blue 
+blue sky over a deep blue water. I notice a heron perched close to the 
+water's edge. Another chance for the perfect heron shot. I know I will get it 
+one day, perhaps today is that day? I'm crouching down, still, eye firm to 
+the lense when I hear laughter from behind me. As I move away, it then dawns 
+on me that the party behind think I'm taking shots of the topless woman 
+sunbathing a few feet to the left. No! It's the heron! Honest! Time to move 
+on and hide my shame in the depths of the Bos...
+
+<figure>
+	<a href='https://photos.google.com/share/AF1QipMpsM-SC485VhhL7wp1ceEU6Z1SrKpDlG6HhEFyu_hFrQHtIwWn1qai66mowoE3oQ/photo/AF1QipNyiErt1y1fpxGAO_Hdp6cUJ8thNOk224rRF_CG?key=QnVrdFI3aGtNa3JyM1dwd2RmQ1RRNzJ5aVQwWW1B'>
+		<img src='https://lh3.googleusercontent.com/NFE5bp14F-7xF8aic5yvsGMmicvK2htNYjCoB05XucnMYDS7YjaK3CxFUh4vJaJR6ena2t9b7SFev9woDYSceUTw-49yo90UTZCo-Cg1J-9gdijl3xLCsRInV5JmZcqibFJnqxDE' />
+	</a>
+    <figcaption><i>The infamous heron</i></figcaption>
+</figure>
+
+...Following paths inwards, I notice a distinct area of raised ground on 
+the horizon - no, it can't be! Surely this must be a mirage! It's a...hill! 
+First hill I've seen in this country, let alone city. I race onwards to 
+this ridge of high ground. Summit. Questions. Is this a real hill or man 
+made? It rises unnaturally steeply and falls away as such on the other 
+side. Lots of stonework about. I find an information board containing some 
+old black and white photos of men with shovels, and an old vista showing 
+how it used to look-- something akin in style to the stretch down to the 
+water at Versaille or in Vienna. I knew it was too good to be true. Time 
+to head back. Sapped of energy given the cold. Just manage to limp home.
+
+<figure>
+	<a href='https://photos.google.com/share/AF1QipMToIywc37PTXxz93hgELvh46q8sBiJBYynYtq1m26vIX3oYBXNEAupm25qGeB_xA/photo/AF1QipMtY9BQiDWHycUTNzfpTtcUNYxgXKiPPUEd3l40?key=YWtpdVZpcUg3T1E3ZGFja2VGNWtHMzJPRTFxNklR'>
+		<img src='https://lh3.googleusercontent.com/Hu42Fz1QIa3_5RUUFgsogdRzdxP2BH6CYY-GFaz3PUt1HyUr18Bklu2HFzqnJ1OId5KDvdxWVsrqqV-mq25a5INoEKi185Jukgus62qlI-8AaPm399oyzcpXkmrN_L8sDLrFTvPS' />
+	</a>
+	<figcaption><i>The infamous hill</i></figcaption>
+</figure>
