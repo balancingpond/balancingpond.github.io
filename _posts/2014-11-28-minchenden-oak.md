@@ -15,11 +15,27 @@ I attended as a child used also to be called Minchenden. The oak has stood on
 this site for hundreds of years and is considered holy by some (I included, 
 not least due to the exact northern alignment with my childhood home).
 
-![Imgur](https://i.imgur.com/J682WV1.jpg)
+<figure>
+    <a href="https://imgur.com/t6M8wGG">
+        <img src="https://i.imgur.com/t6M8wGG.jpg" style="max-width: 400px;" alt="Minchenden Oak" />
+    </a>
+   <figcaption>The Minchenden Oak</figcaption>
+</figure>
 
 After this, I continued north along the transect. This took me up into Trent 
 Park, where I found a few sodden mushrooms, including these delicious 
 shaggy-caps, and a throne.
 
-![Imgur](https://i.imgur.com/LofvG4v.jpg)
-![Imgur](https://i.imgur.com/xl1JV6h.jpg)
+<figure>
+   <a href="https://imgur.com/w8gTv7E">
+   <img src="https://i.imgur.com/w8gTv7E.jpg" style="max-width: 400px;" alt="Shaggy caps" />
+   </a>
+   <figcaption>Shaggy caps</figcaption>
+</figure>
+
+<figure>
+   <a href="https://imgur.com/gYC7SFQ">
+   <img src="https://i.imgur.com/gYC7SFQ.jpg" style="max-width: 400px;" alt="Throne" />
+   </a>
+   <figcaption>Throne of the late King of Trent Park</figcaption>
+</figure>
