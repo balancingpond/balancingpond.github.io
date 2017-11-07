@@ -34,7 +34,12 @@ flat eluvial planes of the Thames Esturay...
 
 **EBBSFLEET INTERNATIONAL**
 
-<a href='https://photos.google.com/share/AF1QipPDlgDYOMyquIvGc0aPvcNIZCP211hSAZe0ocIWmaKelk5drX4WRBctANHnenaAIg?key=QkNpOENjSWRMRmJIY3NNNDRHV21Ta2FsYllsV2tR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/EhTvF2UTkT9AjjJiPZsFrN9NIay5plW6EcQBhfukeg3ndUJ0EiaRSBbO4CzIBo9pHva4Ci3LsqTLlMwJUGL7gzGEE-2h6sSCfq-7C0BaR_kj0zC9O3TXeB5th3HTtsrDvXcF2mAaVLU' /></a>
+<figure>
+    <a href="https://imgur.com/wyMb7Av">
+        <img src="https://i.imgur.com/wyMb7Avl.jpg" alt="Ebbsfleet" />
+    </a>
+   <figcaption><i>"There is no Ebbsfleet".</i></figcaption>
+</figure>
 
 What I came to realise about Ebbsfleet, is that not only is it not a place that lives up to the grandness implied in "International", it isn't actually a place 
 at all. After being the only person to alight from the train here, I wonder out of the station into a barren landscape of endless empty car parks. I eventually 
@@ -49,67 +54,122 @@ landscape - it is not one designed on the human scale, everything is massive - h
 head out west across the bridge and into Swanscombe, another perculiar Esturary town, and descend towards the Thames into an expansive landscape of rubble and 
 weeds...
 
-<a href='https://photos.google.com/share/AF1QipMtzcSQyVxjj7li5y2EHZQBVEXB5xs9rD6EIgk_XvtWEprSYxVYQZQLTmWxbC809g?key=Nm9abWlpdnNWMS0yc0V2TWlJRFZjbHBOaGlUVXZR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/-EpVNmqX1fAoIBA4mlKBrwnqEGg8vWHoO4bG4rd8dendRpyZ8cmeqio-ODgDupb0bqXhpAvZsDo-iVh4MHFc2COHnzoVwylCbHqDCM_TUs_oWKojBH0y9ZJyZnVAbcSCRyYp2TWz0dM' /></a>
+<figure>
+    <a href="https://imgur.com/YSKaKOK">
+        <img src="https://i.imgur.com/YSKaKOKl.jpg" alt="Swanscombe" />
+    </a>
+   <figcaption><i>"Swanscombe, another perculiar esturine town".</i></figcaption>
+</figure>
 
 **THAMES GATEWAY**
 
 Ahead near the river I can see a pylon. It looks close, but it's an optical illusion: this pylon is four times more massive than any I've ever seen. When I 
-finally reach the base, I am standing next to something resembling the Eiffel Tower. On the far bank,  there is it's twin, with thick electrical cables 
+finally reach the base, I am standing next to something resembling the Eiffel Tower. On the far bank, there is it's twin, with thick electrical cables 
 connecting the two high above the river. 
 
-<a href='https://photos.google.com/share/AF1QipNMzU5vFc79FeQtNtG3p1XhPiC9VUJoxxuis1lA2sHNyl1GCtQYwBcKpiRXHHskCg?key=TVRMWmt5bmQwa0Q0MFRJUENUWmpHblFxMjlHTER3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/RqhBeYtWWEMSmJPaeR5StUwKWH27z_NP6SD3-mkskz28jy8zIM81G_c-f0Ow8LB2USQSyVV_TTvdstEvjRB3C2XXvu1se6QRXHSAJziFL_5wqDTiHjlCL_4__S7JvQL_C0nVZjyw-JA' /></a>
+<figure>
+    <a href="https://imgur.com/OBkOvOP">
+        <img src="https://i.imgur.com/OBkOvOPl.jpg" alt="Pylon" />
+    </a>
+   <figcaption><i>"Four times more massive than any I've ever seen".</i></figcaption>
+</figure>
 
 Onwards up stream to Greenhithe, past Ingress Abbey - built 1833, redeveloped by Crest circa 2002 (this is Deep Thames 
 Gateway territory), the QEII bridge is getting ever closer. Eventually I am under the bridge, and again I am feeling like an ant about to be crushed. High above 
 I hear the sound of endless streams of Tesco lorries vaulting the Thames. All I have for company down here is some rascist graffiti at the base of the concrete 
 superstructure.
 
-<a href='https://photos.google.com/share/AF1QipNOh7ptsv0DS_oRHOxdh5jC9xo0Oh46p58kFwohNrPJTJTVi7taUHeoPxRs-ZR3VQ?key=X0VBSnFKNlpJTVlvbFk3UEp2UExxLWZETUxZcnFB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/AuDu5ONUqSuRaNUKeamwNZlv5d7Mi-oubBhbqbwBhSHcu5RlS4JeLiiZ72GTOInVfeh1KK0DbitV0rt7ggVtnLZa1eWiyuvIq9G4SP2quiD856InxpKcDn7U0X65AT_IA7xo3zCvZLE' /></a>
+<figure>
+    <a href="https://imgur.com/1P0I0BN">
+        <img src="https://i.imgur.com/1P0I0BNl.jpg" alt="QEII" />
+    </a>
+   <figcaption><i>Queen Elizabeth The Second Bridge, the first bridge.</i></figcaption>
+</figure>
 
 Moving on, I pass the Littlebrook Oil Fired Power Station and glimpse a fox through the mesh fence adorned with signs warning away those who 
 have come in connection with the "Camp For Climate Action". 
 
-<a href='https://photos.google.com/share/AF1QipN4nrK0-qAuWq5RVepbNkcjahnHFqZeplA1trUVzt6GGokShbDIQxRtfRWnB-iO1g?key=Tlp5REhMZm1XVkpxSDVVVEw2SzBxbnFfazdIMGZ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/RelzUeEkROK7mdbAyWI16iz3JI9qP7W5of3VJZzd4yHAlnKQ95WDr5j52MGzVbjJPMpvk6wu1t9YsH4XUsB5YyGw1rcydIbf5cCnpyg6OTHobYE1doK5mKi2V0l83imAOkPcb0QuU_k' /></a>
+<figure>
+    <a href="https://imgur.com/L4nuIYr">
+        <img src="https://i.imgur.com/L4nuIYrl.jpg" alt="Fox mesh littlebrook" />
+    </a>
+   <figcaption><i>Littlebrook (Oil Fired), fox.</i></figcaption>
+</figure>
 
 On the other side of the river I can see a massive tanker docked at Purfleet. There is a continuous 
 stream of lorries surfacing from the hold. I watch for what seems like hours, transfixed, what on Earth could be inside all those containers? Coffins full of earth? 
 
-<a href='https://photos.google.com/share/AF1QipOGQGDVHw23SITXKZm8TjLdgSNG7Lod9hB9VwTtPnwsdLtqERwU1u6Q_XZDksD3fQ?key=cnBaSnlWNjlqOTctMjBHVnI0SklhMy13cTdNLVFB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/KvMH55KcOOosI6e6Ua94eoOi2jmnKS_hvPcp6tBPkuRjKNgA8AZJ7FEY1rfMX2qXBhVy5Pa-Ul3pBwWPUvb-8czgd0CZlGeVisjgrj5decwWzg12m58gWflPHQGC_s7uPddsFEMpW5I' /></a>
+<figure>
+    <a href="https://imgur.com/HnCtXTZ">
+        <img src="https://i.imgur.com/HnCtXTZl.jpg" alt="Purfleet" />
+    </a>
+   <figcaption><i>What on Earth? (Coffins full of).</i></figcaption>
+</figure>
 
 Finally I move on, 
 though the lorries continue. Further upstream I come across a guy fishing; broad, bald, pink shirt, large hands. His wife is 
 set back from the river sun bathing. This seems like a nice spot for a leisurely bit of fishing, though I wonder why he's the one here? A few yards upstream I 
 find my answer: the infamous Southern Outfall, where everyone's shit from Brixton to Barnehurst is spewed out into the Thames. 
 
-<a href='https://photos.google.com/share/AF1QipNJWMWoYHoJVyQ9BvIKvpEeYYxTLnRz6UQ_Y1S53DBSlesgzxIgc-9PLFlqtpHvrQ?key=UVFvbllqNTNHUFNKS052NklFREE2MWRLY0VEakJ3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/5DECE3Qumg2D-2Az9gAF-vjt_d4zdNw-Jfevl5dQIEY_RD8IKM2bW60PqFKqidrqZ98RZ2P5IaxZTZKm-0DKOajMzkcAQJT1UCyIu0HqzCa6aeB543ejaWWKBKlkv8K8KCdrLrYpOVU' /></a>
+<figure>
+    <a href="https://imgur.com/psL4j8R">
+        <img src="https://i.imgur.com/psL4j8Rl.jpg" alt="Southern Outfall" />
+    </a>
+   <figcaption><i>Everyone's shit (Brixton to Barnehurst).</i></figcaption>
+</figure>
 
 Further up river my path is 
 blocked by the introusion of the river Darent, it's flood defenses visible over the flat landscape. I cut inland across the flood plains, now in the heat of the 
-day, and stumble upon some strange decaying concrete structures - reminents of some by-gone industrial process? 
+day, and stumble upon some strange decaying concrete structures - reminents of some by-gone industrial process, or perhaps dwellings of an ancient civilization? 
 
-<a href='https://photos.google.com/share/AF1QipP2nVo1GKcgXZP5vY-uZFLSVWeeGd7rznkmM6A1kldUJml3iUmiRamkpU07MB_Kvw?key=emZmZDMxTUdhd1R0THQyeWQySGlEMExkN09VRzdn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/5BDsH_-9TwgibmJS1PrehZaK9Tr7GgTcCq4Z9nixAUw3oDccfQdaAYYMdurT3QlB0mZLEHbRV8p_xIJU3mbduzNpHMJmhfhu529_Pd7FBPQG8d-u1nE7O-dWYXaaLcv-cOVhvfqK48I' /></a>
+<figure>
+    <a href="https://imgur.com/QyxL3Tz">
+        <img src="https://i.imgur.com/QyxL3Tzl.jpg" alt="Darent flats" />
+    </a>
+   <figcaption><i>Darent flats - "dwellings of some ancient civilization".</i></figcaption>
+</figure>
 
 **THE CRAYS**
 
 Having crossed the Darent I take a path passed a field full of junk being grazed by a couple of miserable donkies. I follow the Cray, a tidal tributary of the 
 Darent choked with grey silt, past breaker's yards, through Crayford and eventually come out in the grounds of Hall Place (founded 1537). 
 
-<a href='https://photos.google.com/share/AF1QipMO19WIhp_GY4dTASbZvxPRxLpzan8E_7brFkD0AbhfqAcO5mddYTcsfFehsfmJag?key=SlhXQWktOW1BQzJtUDBvMVdnVlVjem04cFNzQ3JR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/PvV_pOkrd_MjmLPvCCdXUGEvZfMnpG9dWhkekDuat5uiUOaRgr65kUXfwZFpSynFBPnkzrp2uu34goagAW8BBRncQWTRDxQsFAUheEQTqvBNJZpmVEQk4mIiIECfeg7c0LGtYUohOqU' /></a>
+<figure>
+    <a href="https://imgur.com/45tGYja">
+        <img src="https://i.imgur.com/45tGYjal.jpg" alt="Cray" />
+    </a>
+   <figcaption><i>The Cray, silt-choked child of the Darent.</i></figcaption>
+</figure>
 
 The gardens were very fine indeed, and I took a much needed rest in the hot houses. 
 
-<a href='https://photos.google.com/share/AF1QipMFzrJNlIm3JfFQydS8gTohyXwW4Rut-eexLHSQQQdjUEJe5Jw7W1mQDinILsJ53w?key=NXZpN3F5TUNlT3lIYUYwME56RllWaG9yX3YwMzJn&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ylZ5NQlcVagVY9PNwFPzCuwVC-oCBUcVcJ3-nq0jr2z6-me9TJbIt30x886UZEbL_xt80lJvbe-06oNNcVa3uRTJX_X0n1vPSDg4dxPy9-nbFgXJEiiZrH3N94147lrIaaxbL-r1-vg' /></a>
+<figure>
+    <a href="https://imgur.com/Kx7JAQV">
+        <img src="https://i.imgur.com/Kx7JAQVl.jpg" alt="Hot House" />
+    </a>
+   <figcaption><i>Hall Place Hot House.</i></figcaption>
+</figure>
 
 Onwards then to Bexley, and suddenly out into the countryside - I pass wondering chickens, riding schools, now into woods. 
 
-<a href='https://photos.google.com/share/AF1QipO9C-HwTFeYcKDcoqLwdWZEJzC3Qjqx5hkxDyVdJnwx6uUA0PctIx48FjJMtX-1Iw?key=eHd0cU5OUC1oRzdqRWgxYmVIbzNlc1lXbGZtWHVR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/5peyz3DNiP8je1WCgoe4Uf1myPIFyj4IhIvg_MNbettQV9NVm6LLCvH0AdGEKe3m9n3-pm8uyHX9TpesmpHcuICnCG5vWIK4Xci8lM2ZbwfX6mX2O6gYbXqyg0pQxdrFSXOVCfGwZic' /></a>
+<figure>
+    <a href="https://imgur.com/4QN0sUp">
+        <img src="https://i.imgur.com/4QN0sUpl.jpg" alt="chicken" />
+    </a>
+   <figcaption><i>Chickens wonder.</i></figcaption>
+</figure>
 
 I emerge on a high point on rural Parsonage Lane - in the distance I see a great road crossing the wide valley - the A20? Yes! So I am 
 here, down here, down in that strange vale - I've done it, I have travelled to other Worlds! I can see myself on the bridge, starring out of the passenger 
 seat. I worry that if we make eye contact the universe may implode, so I quickly dive behind a hedgerow and shelter until the vehicle is out of view. Unsettled 
-by my encounter I hot-foot it to Foot's Cray, where I take refuge in the Deep Bar & Restaurant - a local hangout for Deep Topographers. 
+by my encounter I hot-foot it to Foot's Cr ay, where I take refuge in the Deep Bar & Restaurant - a local hangout for Deep Topographers. 
 
-<a href='https://photos.google.com/share/AF1QipNPhWaWHwI24cLgr8NcnlSRRCCGAdxnbDGhCPbquCkYeqgB6-Rx4Us03aBID-UdVQ?key=TGNDbkI3bnRMdHQ5YWw0RWZ4QmpFZEo4Q0E4RG53&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/4jA1vkQ3MN24ar0woT_Dz1z1F7PltzwJGZsHyyPJqrU5MQkLUAYC8BHygTLkknkzmZwXJY_6HGIk-kyXhV7qxL82sZh6xhuRX0y-9g5DaJ_4qTlqpS7qymHdZV7aXAS2n9jBen4kNYs' /></a>
+<figure>
+    <a href="https://imgur.com/iKoc1ID">
+        <img src="https://i.imgur.com/iKoc1IDl.jpg" alt="Deep Bar" />
+    </a>
+   <figcaption><i>Deep Bar and Restaurant, for all your Deep Topographical needs.</i></figcaption>
+</figure>
 
 Restored, I head down 
 the A224 Cray Road only to be confronted by an impassable zone of roundabouts and roadside thickets - I have finally reached the A20. As a try to find a way 
@@ -118,7 +178,12 @@ shoulder of the Sidcup-Bypass for about half a mile. I notice details that are n
 directly from the road side, unknown nature reserves (Scadbury Park). Finally I reach dry land at the Junction with the A222, work my way inland to MAIN ROAD, 
 a long road taking me into further unknown suburbs. 
 
-<a href='https://photos.google.com/share/AF1QipPSJsmuWYxUlkizG2PPnJLcj2EcdC7GHaxvpk5ZDtHuEOut6t4th8VPq6Lsyw6J0Q?key=cmFZTUw1WEJMQ3ZZNG5haUp5eDBCNTdublJXQmdB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/If6qFIHXVLZ-gHhqjfvz6p-jfTkKJtB8LBArB3yrKr6G9MY_FXoGSQhTMXkhAacw5AoLA2JzQ0mRykaXC3sUGZcilopPpCXYpOkSpugMy8AjXhbREvNYDzQxqhT2-2Y4yC9wZA-xPfw' /></a>
+<figure>
+    <a href="https://imgur.com/Uxs1hnH">
+        <img src="https://i.imgur.com/Uxs1hnHl.jpg" alt="mock tudor" />
+    </a>
+   <figcaption><i>Details not attainable at 60 mph.</i></figcaption>
+</figure>
 
 **FURTHER UNKNOWN SUBURBS**
 
@@ -128,7 +193,12 @@ tuck in to my fluorescent chicken-tikka massala in some municipal park, hoping n
 Eventually I see something familiar - the Kidbrooke Estate. I have come at an interesting time - the whole estate is under massive redevelopment - the old Moon 
 base is being replaced by something more hi-tech - dwellings fit for 21st century living. There are only a few of the old buildings left standing. 
 
-<a href='https://photos.google.com/share/AF1QipOikT57tai5x4xlNRuAjfAZOZ2pIVldxYPkwwlX12mNQ96G1CTzlpbEFrOgJFUUMw?key=QXRSSl84S2VtOWNtUXphajduZTI0QmVzaWpjVWVB&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/0UyCx7qNeAtOVDSAFTFrxvqsDfeaKWktUa4YteUqrS7MWvDjrSR2zB23zAVUVi8kNX8t3QkmngRlKDC87JkubQn0cVyYXxIlSXSv6tuWMVqz-qb1fOJuX3Adw-_MH-rUlH4JVYzxFgk' /></a>
+<figure>
+    <a href="https://imgur.com/28SJTqw">
+        <img src="https://i.imgur.com/28SJTqwl.jpg" alt="Kidbrooke" />
+    </a>
+   <figcaption><i>Moon base, Kidbrooke.</i></figcaption>
+</figure>
 
 This place 
 doesn't feel safe, - I pick my way through half demolished council blocks, searching for a way out - I take my chances down a narrow allyway hoping I don't meet 
@@ -140,13 +210,23 @@ run, I almost collide with two prams being pushed by a pair of yummy mummys.
 I seem to have fallen through some sort of worm-hole and landed in Hampstead. The streets are lined with Jaguars and 4x4s. The houses are detached and have 
 columns. Where am I? As I walk down the leavy street, I consult my A-Z. It appears I am in Blackheath. The Highgate of the South.
 
-<a href='https://photos.google.com/share/AF1QipOUARz_9MTMLWYY_I-Y8RbPEkEtyTURmXblcaLKRD33qe_u7RG9sqClmZ5Zvqb5fQ?key=OUt6S2JNZy1LXzhoM0NzRFlCU3F5U1RBR3NLbXNR&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ynS5SgaKgwZTm6C_aKCXSbqe6WAU9EihHVE-kk_9j4R2baNqKg37LKQHVzdv0Nyoslq7sjg8TNJOB0mfZk8tUeNkUQ8G7HmlWPapljaL3Ylt29oFTxMQA79wqlRKvX4Z8LwTPBRh3rQ' /></a>
+<figure>
+    <a href="https://imgur.com/R3RDICR">
+        <img src="https://i.imgur.com/R3RDICRl.jpg" alt="Wormhole" />
+    </a>
+   <figcaption><i>Wormhole.</i></figcaption>
+</figure>
  
 As twilight approaches, I 
 climb up to the heath, another site connected to the Camp For Climate Action, and gaze out across the city. I am planning to meet a friend in Brixton Market for 
 a drink later. 
 
-<a href='https://photos.google.com/share/AF1QipOEhZ3QP-pJwZKD-NB3Cjo6OAkWT4OVcycfAKtHEG-13q4KDyNWz6mzCytusf7CXg?key=UnRLeXVwNU93cG10d1NWX25YallHMkZMX1JrWUln&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/qKs7LJiDmCYtY-FqMaHm7CRqLBJKLafEcjj4IYRRfy8siuTHhhTuvcEfcJpGHrPryMUAvgjMTzZHeS30luI9WMhZOlHqCTv2GBVVRljVK7Ou-KJDDaE2hCewgEW1zRBq1w691urSEOY' /></a>
+<figure>
+    <a href="https://imgur.com/O0T8Nxc">
+        <img src="https://i.imgur.com/O0T8Nxcl.jpg" alt="Blackheath" />
+    </a>
+   <figcaption><i>Twilight on the Heath.</i></figcaption>
+</figure>
 
 Having come this far by foot, I resolve to make Brixton by 9pm. I set off west down Shooter's Hill, sticking to the main road all the way as it 
 lacings through the inner-city districts of South London. As I recall, somewhere around Deptford a large blister on my ankle popped, considerably slowing 
