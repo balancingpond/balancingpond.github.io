@@ -26,7 +26,7 @@ Amsterdamse Bos, the most notable of whom was Tootin' Cartoon.
 
 <figure>
 	<a href='https://imgur.com/r5iV4Ot'>
-		<img src='https://i.imgur.com/r5iV4Ot.jpg' style="max-width: 600px;" alt='Tootin Cartoon' >
+		<img src='https://i.imgur.com/r5iV4Otl.jpg' alt='Tootin Cartoon' >
 	</a>	
     <figcaption>"<i>Here lieth Tootin' Cartoon</i>"</figcaption>
 </figure>
@@ -44,7 +44,7 @@ on and hide my shame in the depths of the Bos...
 
 <figure>
 	<a href='https://imgur.com/iFMm2si'>
-		<img src='https://i.imgur.com/iFMm2si.jpg' style="max-width: 400px;" alt='The Infamous Heron' >
+		<img src='https://i.imgur.com/iFMm2sil.jpg' alt='The Infamous Heron' >
 	</a>	
     <figcaption>"<i>The Infamous Heron</i>"</figcaption>
 </figure>
@@ -62,7 +62,7 @@ to head back. Sapped of energy given the cold. Just manage to limp home.
 
 <figure>
 	<a href='https://imgur.com/wv6tP1Y'>
-		<img src='https://i.imgur.com/wv6tP1Y.jpg' style="max-width: 600px;" alt='The Infamous Hill' >
+		<img src='https://i.imgur.com/wv6tP1Yl.jpg' alt='The Infamous Hill' >
 	</a>	
     <figcaption>"<i>The Infamous Hill</i>"</figcaption>
 </figure>
